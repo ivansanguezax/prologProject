@@ -4,8 +4,8 @@ Este repositorio contiene ejemplos de código en Prolog que ilustran el uso de b
 
 ## Contenido
 
-1. [Factorial usando Recursividad](#ejemplo-1-factorial-usando-recursividad)
-2. [Buscar un Elemento en una Lista usando Backtracking](#ejemplo-2-buscar-un-elemento-en-una-lista-usando-backtracking)
+1. [Factorial usando Recursividad](https://github.com/ivansanguezax/prologProject/blob/d98efee2f2a0f7bb2665f0c4db98901a04c33639/factorial.pl)
+2. [Buscar un Elemento en una Lista usando Backtracking](https://github.com/ivansanguezax/prologProject/blob/d98efee2f2a0f7bb2665f0c4db98901a04c33639/backtrackin.pl)
 
 ## Ejemplo 1: Factorial usando Recursividad
 
