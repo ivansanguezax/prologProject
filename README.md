@@ -36,5 +36,3 @@ Resultado: `X = [3, 3, 3].`
 1. Crea un archivo `.pl` (por ejemplo: `backtracking_recursividad.pl`).
 2. Copia y pega los códigos de los ejemplos en este archivo.
 3. Asegúrate de incluir esta línea al principio de tu archivo para cargar el código: `consult('backtracking_recursividad.pl').`
-
-Con esto, podrás utilizar las reglas `factorial/2` y `buscar/3` en tu proyecto.
