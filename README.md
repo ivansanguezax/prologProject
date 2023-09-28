@@ -38,7 +38,3 @@ Resultado: `X = [3, 3, 3].`
 3. Asegúrate de incluir esta línea al principio de tu archivo para cargar el código: `consult('backtracking_recursividad.pl').`
 
 Con esto, podrás utilizar las reglas `factorial/2` y `buscar/3` en tu proyecto.
-
----
-
-Espero que estos ejemplos te sean útiles para tu curso de Prolog. Si necesitas más ayuda o ejemplos adicionales, no dudes en preguntar. ¡Buena suerte con tu proyecto! 👍
